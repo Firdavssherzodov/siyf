@@ -4,7 +4,6 @@
     <AboutFond></AboutFond>
     <Opportunities></Opportunities>
     <Registration></Registration>
-    <Faq></Faq>
     <Sponsors></Sponsors>
     <Footer></Footer>
   </div>
