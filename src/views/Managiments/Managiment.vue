@@ -4,7 +4,7 @@
   </div>
   <!-- w-4/12 border h-4/5 -->
   <div
-    class="card w-full xl:grid grid-cols-12 border md:gap-2 gap-5 lg:py-32 pt-10"
+    class="card w-full xl:grid grid-cols-12 md:gap-2 gap-5 lg:py-32 pt-10"
   >
     <div
       class="kard md:flex justify-center md:w-[700px] w-[100%] md:rounded-3xl md:h-[15rem] h-[20rem] md:col-span-9 col-span-1 md:my-2 xl:mx-80 mx-auto my-6"
