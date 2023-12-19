@@ -7,30 +7,72 @@
     <h1 class="text-white pb-12 sm:text-3xl text-2xl text-center font-semibold">
       Ishtirok etish shartlari
     </h1>
-    <div class="w-4/5 h-full m-auto lg:grid grid-cols-12 grid-rows-2 gap-8 ">
+    <div class="w-4/5 h-full m-auto lg:grid grid-cols-12 grid-rows-2 gap-8">
       <div class="kard1 rounded-2xl col-span-3 lg:mb-0 mb-8">
-        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10 ">Arizalar soni </h1>
-        <p class="text-white font-sans py-4 px-7 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat dicta quae pariatur. Cum debitis asperiores itaque recusandae similique explicabo, quod quis! Amet, distinctio culpa quia libero aut vitae praesentium itaque.</p>
+        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10">
+          Arizalar soni
+        </h1>
+        <p class="text-white font-sans py-4 px-7 text-left">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
+          dicta quae pariatur. Cum debitis asperiores itaque recusandae
+          similique explicabo, quod quis! Amet, distinctio culpa quia libero aut
+          vitae praesentium itaque.
+        </p>
       </div>
       <div class="kard1 rounded-2xl col-span-3 row-span-2 lg:mb-0 mb-8">
-        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10 ">Arizalar soni </h1>
-        <p class="text-white font-sans py-4 px-7 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat dicta quae pariatur. Cum debitis asperiores itaque recusandae similique explicabo, quod quis! Amet, distinctio culpa quia libero aut vitae praesentium itaque.</p>
+        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10">
+          Arizalar soni
+        </h1>
+        <p class="text-white font-sans py-4 px-7 text-left">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
+          dicta quae pariatur. Cum debitis asperiores itaque recusandae
+          similique explicabo, quod quis! Amet, distinctio culpa quia libero aut
+          vitae praesentium itaque.
+        </p>
       </div>
       <div class="kard2 rounded-2xl col-span-3 lg:mb-0 mb-8">
-        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10 ">Arizalar soni </h1>
-        <p class="text-white font-sans py-4 px-7 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat dicta quae pariatur. Cum debitis asperiores itaque recusandae similique explicabo, quod quis! Amet, distinctio culpa quia libero aut vitae praesentium itaque.</p>
+        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10">
+          Arizalar soni
+        </h1>
+        <p class="text-white font-sans py-4 px-7 text-left">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
+          dicta quae pariatur. Cum debitis asperiores itaque recusandae
+          similique explicabo, quod quis! Amet, distinctio culpa quia libero aut
+          vitae praesentium itaque.
+        </p>
       </div>
       <div class="kard1 rounded-2xl col-span-3 lg:mb-0 mb-8">
-        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10 ">Arizalar soni </h1>
-        <p class="text-white font-sans py-4 px-7 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat dicta quae pariatur. Cum debitis asperiores itaque recusandae similique explicabo, quod quis! Amet, distinctio culpa quia libero aut vitae praesentium itaque.</p>
+        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10">
+          Arizalar soni
+        </h1>
+        <p class="text-white font-sans py-4 px-7 text-left">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
+          dicta quae pariatur. Cum debitis asperiores itaque recusandae
+          similique explicabo, quod quis! Amet, distinctio culpa quia libero aut
+          vitae praesentium itaque.
+        </p>
       </div>
       <div class="kard2 rounded-2xl border-fuchsia-400 col-span-3 lg:mb-0 mb-8">
-        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10 ">Arizalar soni </h1>
-        <p class="text-white font-sans py-4 px-7 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat dicta quae pariatur. Cum debitis asperiores itaque recusandae similique explicabo, quod quis! Amet, distinctio culpa quia libero aut vitae praesentium itaque.</p>
+        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10">
+          Arizalar soni
+        </h1>
+        <p class="text-white font-sans py-4 px-7 text-left">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
+          dicta quae pariatur. Cum debitis asperiores itaque recusandae
+          similique explicabo, quod quis! Amet, distinctio culpa quia libero aut
+          vitae praesentium itaque.
+        </p>
       </div>
-      <div class="kard2 rounded-2xl col-span-6  lg:mb-0 mb-8">
-        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10 ">Arizalar soni </h1>
-        <p class="text-white font-sans py-4 px-7 text-left">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat dicta quae pariatur. Cum debitis asperiores itaque recusandae similique explicabo, quod quis! Amet, distinctio culpa quia libero aut vitae praesentium itaque.</p>
+      <div class="kard2 rounded-2xl col-span-6 lg:mb-0 mb-8">
+        <h1 class="text-white text-xl font-semibold font-sans px-7 pt-10">
+          Arizalar soni
+        </h1>
+        <p class="text-white font-sans py-4 px-7 text-left">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
+          dicta quae pariatur. Cum debitis asperiores itaque recusandae
+          similique explicabo, quod quis! Amet, distinctio culpa quia libero aut
+          vitae praesentium itaque.
+        </p>
       </div>
     </div>
   </div>
@@ -69,5 +111,4 @@ import faq from "../../FAQ/Faq.vue";
 .kard2 {
   background: linear-gradient(180deg, #3477b0, rgba(30, 83, 130, 0));
 }
-
 </style>

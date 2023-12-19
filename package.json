@@ -11,6 +11,7 @@
     "@headlessui/vue": "^1.7.16",
     "flowbite": "^2.2.0",
     "pinia": "^2.1.7",
+    "primeicons": "^6.0.1",
     "primevue": "^3.42.0",
     "sass": "^1.69.5",
     "vue": "^3.3.4",

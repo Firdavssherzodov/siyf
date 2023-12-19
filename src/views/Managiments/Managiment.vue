@@ -4,7 +4,7 @@
   </div>
   <!-- w-4/12 border h-4/5 -->
   <div
-    class="card w-full xl:grid grid-cols-12 border md:gap-2 gap-5 lg:py-32 py-10"
+    class="card w-full xl:grid grid-cols-12 border md:gap-2 gap-5 lg:py-32 pt-10"
   >
     <div
       class="kard md:flex justify-center md:w-[700px] w-[100%] md:rounded-3xl md:h-[15rem] h-[20rem] md:col-span-9 col-span-1 md:my-2 xl:mx-80 mx-auto my-6"
@@ -20,9 +20,9 @@
         alt="Image"
         width="400"
         preview
-        class="md:h-full h-[55%] mr-3 w-full flex justify-center "
+        class="md:h-full h-[55%] mr-3 w-full flex justify-center"
       />
-      <div >
+      <div>
         <p class="text-white text-center font-bold md:py-4 py-2 font-sans">
           {{ item.name }}
         </p>
