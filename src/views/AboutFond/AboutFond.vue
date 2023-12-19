@@ -148,7 +148,7 @@ const infos2 = ref([
   {
     header: "Maqsad va vazifalar2",
     date: "15/10/2020 14:00",
-    icon: "pi pi-chart-line",
+    icon: "pi pi-slack",
   },
   {
     header: "Maqsad va vazifalar3",
