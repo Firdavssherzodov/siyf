@@ -5,6 +5,8 @@
     <Opportunities></Opportunities>
     <Registration></Registration>
     <Sponsors></Sponsors>
+
+    <Faq></Faq>
     <Footer></Footer>
   </div>
 </template>

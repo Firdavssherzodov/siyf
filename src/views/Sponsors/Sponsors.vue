@@ -1,12 +1,13 @@
 <template>
 
-<div class="main pt-2">
-    <h1 class="text-white bg-transparent md:text-[50px] text-[10px] font-sans text-center  font-bold">Homiylar</h1>
+<div class="main pt-10">
+    <h1 class="text-white bg-transparent md:text-[50px] text-2xl font-sans text-center  font-bold md:py-14 py-5">Homiylar</h1>
     <Vue3Marquee :clone="true" :duration="5" :direction="'reverse'" >
             <img
                 v-for="img in imgArray"
                 :key="img"
                 :src="img"
+                class="md:w-[300px] h-16  w-[200px]"
             />
         </Vue3Marquee>
 </div>

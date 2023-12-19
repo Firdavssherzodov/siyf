@@ -69,7 +69,47 @@
           </template>
 
           <template #default>
-            <p class="m-0">ssdds.</p>
+            <div class="card mt-10 md:px-10">
+              <Timeline
+                layout="vertical"
+                :value="infos2"
+                align="alternate"
+                class="customized-timeline"
+              >
+                <template #marker="slotProps2">
+                  <span
+                    class="flex w-2rem h-3rem align-items-center justify-content-center text-white border-circle z-1 shadow-1"
+                  >
+                    <i :class="slotProps2.item.icon" class="text-3xl"></i>
+                  </span>
+                </template>
+                <template #content="slotProps2">
+                  <Card class="mt-3 p-ripple" v-ripple>
+                    <template #title>
+                      <h1 class="text-white">{{ slotProps2.item.header }}</h1>
+                    </template>
+
+                    <template #content>
+                      <img
+                        v-if="slotProps2.item.image"
+                        :src="`https://primefaces.org/cdn/primevue/images/product/${slotProps.item.image}`"
+                        :alt="slotProps.item.name"
+                        width="200"
+                        class="shadow-1"
+                      />
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing
+                        elit. Inventore sed consequuntur error repudiandae
+                        numquam deserunt quisquam repellat libero asperiores
+                        earum nam nobis, culpa ratione quam perferendis esse,
+                        cupiditate neque quas1
+                      </p>
+                      <Button label="Read more" text></Button>
+                    </template>
+                  </Card>
+                </template>
+              </Timeline>
+            </div>
           </template>
         </TabPanel>
       </TabView>
@@ -98,6 +138,20 @@ const infos = ref([
     icon: "fas fa-book-open-reader",
   },
   { header: "Sarlavha4", date: "16/10/2020 10:00", icon: "fas fa-cube" },
+]);
+const infos2 = ref([
+  { header: "Maqsad va vazifalar1", date: "15/10/2020 10:30", icon: "fas fa-book" },
+  {
+    header: "Maqsad va vazifalar2",
+    date: "15/10/2020 14:00",
+    icon: "fas fa-book-journal-whills",
+  },
+  {
+    header: "Maqsad va vazifalar3",
+    date: "15/10/2020 16:15",
+    icon: "fas fa-book-open-reader",
+  },
+  { header: "Maqsad va vazifalar4", date: "16/10/2020 10:00", icon: "fas fa-cube" },
 ]);
 </script>
 
