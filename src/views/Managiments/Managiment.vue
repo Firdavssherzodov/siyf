@@ -99,9 +99,6 @@ const Managiments = [
   border-radius: 0px;
   border-top-right-radius: 0%;
   border-bottom-left-radius: 0%;
-  height: 100% !important;
-  width: -100% !important;
-  width: 100%;
 }
 
 :deep button {
