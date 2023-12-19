@@ -33,10 +33,12 @@ export default {
         'surface-bright': '#F5F5F6',
         'terminal-text': '#110D6D',
         'terminal-bg': '#E0E6FC',
-        'transit-bg': '#FFF1F5'
+        'transit-bg': '#FFF1F5',
+        'border-color':'rgb(52, 119, 176)'
 
 
       },
+   
 
     },
   },
